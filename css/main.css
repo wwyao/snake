@@ -1,0 +1,44 @@
+body{
+			text-align: center;
+		}
+		span{
+			display: inline-block;
+			position: absolute;
+			width:13px;
+			height:13px;
+			background: #831A1D;
+			border:1px solid #9F9BA1;
+		}
+		#wrap{
+			display:inline-block; 
+			position: relative;
+			width:598px;
+			height:598px;
+			border:1px solid #000;
+			background: url(../img/bg.png);
+			vertical-align: middle;
+		}
+		.box{
+			position: absolute;
+			width:13px;
+			height:13px;
+			background: #831A1D;
+			border:1px solid #9F9BA1;
+		}
+		#sab{
+			margin: 0 50px;
+			display:inline-block; 
+			vertical-align: middle;
+			width:150px;
+			font-size: 30px;
+		}
+		#btn{
+			display: inline-block;
+			width:100px;
+			font-size: 25px;
+			background: #549BA1;
+			border-radius: 5px;
+			border: none;
+			outline: none;
+			cursor:pointer;
+		}
